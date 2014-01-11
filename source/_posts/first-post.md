@@ -3,14 +3,14 @@ date: 2014-01-10 09:40:28
 tags: start
 ---
 Introduction
-======
+------
 Often a first post is banal and mundane, and I promise to deliver on that.
 
 My name is Stanley Zheng and I'm a software developer, I strive to touch code everyday and challenge others to do the same. 
 This blog is built in Hexo and using the theme 'greyshade'. 
 
 Why Hexo?
-=======
+--------
 Could Pros but these might not fit you
 
 Pros

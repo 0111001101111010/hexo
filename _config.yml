@@ -3,17 +3,17 @@
 ## Source: https://github.com/tommy351/hexo/
 
 # Site
-title: Stanely Zheng&#58s Blog
+title: Stanely Zheng's Blog
 subtitle: Student Developer
-description: 90&#37 Coding, 10% everything else
+description: 90% Coding, 10% everything else
 author: Stanley Zheng
 email: dev.stanzheng@gmail.com
 language: english
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://blog.stanzh.com
-root: /
+url: http://stanzh.com/hexo
+root: /hexo/
 permalink: :year/:month/:day/:title/
 tag_dir: tags
 archive_dir: archives
