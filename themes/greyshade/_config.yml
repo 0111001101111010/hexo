@@ -2,23 +2,31 @@ menu:
   Home: /
   Archives: archives
   page:
-    About: about
+    About: 
+    Project: 
 
 excerpt_link: Continue →
 
 mathjax: true
 fancybox: true
 
+email:
+  profile_pic: http://s.gravatar.com/avatar/5385799bf0b5e55498c1df108d056fe8?s=160
+
 social:
   twitter: true
   github: true
-  rss: true
+  rss: false
+  linkedin: true
 
 twitter:
-  username:
+  username: stanzheng
 
 github:
-  username:
+  username: stanzheng
+
+linkedin:
+  username: stanzh
 
 addit:
   facebook: false
