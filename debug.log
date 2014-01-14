@@ -1,4 +1,4 @@
-date: 2014-01-11 15:43:10.769
+date: 2014-01-11 22:38:10.327
 argv: node /usr/local/bin/hexo server
 os: Darwin 13.0.1 darwin x64
 version:
@@ -13,17 +13,18 @@ version:
   openssl: 1.0.1e
 ---
 
-[debug] 15:43:10.423 Configuration file load successfully
-[debug] 15:43:10.425 Version info checked successfully
-[debug] 15:43:10.471 Loading database.
-[debug] 15:43:10.520 Theme layout loaded
-[debug] 15:43:10.527 Theme configuration loaded
-[debug] 15:43:10.562 Theme source loaded
-[debug] 15:43:10.660 Theme language files loaded
-[debug] 15:43:10.686 Processed: _posts/first-post.md
-[debug] 15:43:10.687 Processed: _posts/hello-world.md
-[debug] 15:43:10.691 Cache saved
-[error] 15:43:10.761 Error: listen EADDRINUSE
+[debug] 22:38:10.090 Configuration file load successfully
+[debug] 22:38:10.091 Version info checked successfully
+[debug] 22:38:10.120 Loading database.
+[debug] 22:38:10.155 Theme layout loaded
+[debug] 22:38:10.162 Theme configuration loaded
+[debug] 22:38:10.183 Theme source loaded
+[debug] 22:38:10.244 Theme language files loaded
+[debug] 22:38:10.264 Processed: _posts/first-post.md
+[debug] 22:38:10.265 Processed: _posts/hello-world.md
+[debug] 22:38:10.265 Processed: _posts/living-with-glass.md
+[debug] 22:38:10.268 Cache saved
+[error] 22:38:10.322 Error: listen EADDRINUSE
 Error: listen EADDRINUSE
     at errnoException (net.js:901:11)
     at Server._listen2 (net.js:1039:14)
