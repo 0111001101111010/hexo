@@ -32,7 +32,7 @@ Conclusion
 It was simple and lightning fast. I used octopress for the same reason but I would always run into trouble with migrations and new rakes. It was a hassle with different versions of ruby, and bottom line I had stopped hacking in Ruby.
 
 It made sense for myself to switch, and find a tool that met my need. Anyway try Hexo, its easy to use and you can install it via NPM which is awesome
-```shell]
+```[shell]
 
 npm install -g hexo 
 
