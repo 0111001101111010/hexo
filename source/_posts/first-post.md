@@ -1,4 +1,4 @@
-title: first post
+title: First Post
 date: 2014-01-10 09:40:28
 tags: start
 ---

@@ -2,8 +2,11 @@ menu:
   Home: /
   Archives: archives
   page:
-    About: ..
-    Project: 
+  #  About: 
+  #  Projects: 
+  #  Resume:  
+#I like all things open source and quick to adapt to new environments and domains. I organize locally for many groups including CodeforAmerica Brigade. I always try to find ways to horizontally and vertically fill my life with code. Three favorite things are hack-a-thons, civic hacking, and startups. 
+
 
 excerpt_link: Continue →
 

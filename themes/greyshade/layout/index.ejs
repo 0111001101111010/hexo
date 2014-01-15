@@ -1,7 +1,5 @@
 <div itemscope itemtype="http://schema.org/Blog">
-<% page.posts.each(function(item){ %>
-  <%- partial('_partial/post', {item: item, index: true}) %>
-<% }); %>
+<%- partial('_partial/archive', {pagination: config.archive}) %>
 </div>
 
 <nav id="pagenavi">
@@ -15,7 +13,9 @@
           <%= __('next') %>
         </a>
     <% } %>
+    <!--
     <div class="center">
       <a href="<%- theme.menu.Archives %>">Blog Archives</a>
     </div>
+    -->
 </nav>

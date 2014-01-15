@@ -5,15 +5,15 @@
 # Site
 title: Stanely Zheng's Blog
 subtitle: Student Developer
-description: 90% Coding, 10% everything else
+description: This blog's 90% coding and 10% everything else. I am a software developer and student living in Norfolk Virginia. 
 author: Stanley Zheng
 email: szhen002@odu.edu
 language: english
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://stanzh.com/hexo/
-root: /hexo/
+url: http://stanzh.com/
+root: 
 permalink: :year/:month/:day/:title/
 tag_dir: tags
 archive_dir: archives
