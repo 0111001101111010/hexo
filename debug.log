@@ -1,4 +1,4 @@
-date: 2014-01-14 16:37:48.879
+date: 2014-01-14 22:57:30.070
 argv: node /usr/local/bin/hexo server
 os: Darwin 13.0.1 darwin x64
 version:
@@ -13,35 +13,18 @@ version:
   openssl: 1.0.1e
 ---
 
-[debug] 16:36:39.546 Configuration file load successfully
-[debug] 16:36:39.548 Version info checked successfully
-[debug] 16:36:39.579 Loading database.
-[debug] 16:36:39.610 Theme layout loaded
-[debug] 16:36:39.619 Theme configuration loaded
-[debug] 16:36:39.645 Theme source loaded
-[debug] 16:36:39.710 Theme language files loaded
-[debug] 16:36:39.754 Processed: _posts/android-tips-and-tricks.md
-[debug] 16:36:39.754 Processed: _posts/first-post.md
-[debug] 16:36:39.754 Processed: _posts/hello-world.md
-[debug] 16:36:39.755 Processed: _posts/living-with-glass.md
-[debug] 16:36:39.755 Processed: _posts/semester-spring-2014-.md
-[debug] 16:36:39.760 Cache saved
-[info] 16:36:39.881 Hexo is running at localhost:4000/hexo/. Press Ctrl+C to stop.
-[debug] 16:36:48.960 Render index: 
-[debug] 16:37:13.804 Render tag: tags/school/
-[update] 16:37:41.431 Source: _posts/android-tips-and-tricks.md
-[debug] 16:37:41.545 Processed: _posts/android-tips-and-tricks.md
-[debug] 16:37:41.546 Cache saved
-[update] 16:37:48.768 Source: _posts/android-tips-and-tricks.md
-[error] 16:37:48.876 { rawMessage: 'Unexpected characters near "] developer".',
-  parsedLine: 3,
-  snippet: 'tags: [android] developer',
-  parsedFile: null,
-  message: 'Unexpected characters near "] developer" at line 3 (near "tags: [android] developer").',
-  domain: 
-   { domain: null,
-     _events: { error: [Function] },
-     _maxListeners: 10,
-     members: [],
-     _disposed: true },
-  domainThrown: true }
+[debug] 22:57:30.010 Configuration file load successfully
+[debug] 22:57:30.012 Version info checked successfully
+[debug] 22:57:30.042 Loading database.
+[error] 22:57:30.062 TypeError: Cannot read property 'handle' of null
+TypeError: Cannot read property 'handle' of null
+    at Function.app.use (/usr/local/lib/node_modules/hexo/node_modules/express/lib/application.js:111:9)
+    at module.exports (/usr/local/lib/node_modules/hexo/lib/plugins/console/server.js:69:7)
+    at /usr/local/lib/node_modules/hexo/lib/core/index.js:243:9
+    at b (domain.js:183:18)
+    at Domain.run (domain.js:123:23)
+    at Hexo.call (/usr/local/lib/node_modules/hexo/lib/core/index.js:242:9)
+    at /usr/local/lib/node_modules/hexo/lib/init.js:49:10
+    at /usr/local/lib/node_modules/hexo/node_modules/async/lib/async.js:139:25
+    at /usr/local/lib/node_modules/hexo/node_modules/async/lib/async.js:229:13
+    at /usr/local/lib/node_modules/hexo/node_modules/async/lib/async.js:139:25
